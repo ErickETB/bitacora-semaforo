@@ -1,0 +1,16 @@
+BITACORA DE ERRORES SEMAFORO
+
+Error de conexión en base de datos | 🔴 Alta |El sistema no puede conectarse correctamente con la base de datos.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Datos duplicados o que no se guardan| 🔴 Alta | Los datos se registran varias veces o no se almacenan correctamente.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Vulnerabilidad con inyecciones SQL | 🔴 Alta | La aplicación permite introducir datos que podrían afectar o manipular las consultas de la base de datos.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Inicio de sesión defectuoso | 🔴 Alta | El sistema presenta problemas al iniciar sesión o validar las credenciales.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Roles de usuarios descontrolados | 🔴 Alta | Los usuarios pueden acceder a funciones que no corresponden con sus permisos.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Consultas lentas | 🟡 Media | Las consultas a la base de datos tardan demasiado en mostrar resultados.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Diseño no responsivo | 🟡 Media | La página no se adapta correctamente a diferentes tamaños de pantalla.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Enlaces rotos / error 404 | 🟡 Media | Algunos enlaces llevan a páginas que no existen o no funcionan.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Incompatibilidad con navegador | 🟡 Media | Algunas funciones no funcionan correctamente en determinados navegadores.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Envío de datos no válidos | 🟡 Media  | El sistema permite enviar información incorrecta o con un formato no válido.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Falta de certificado SSL | 🟡 Media | La página no cuenta con una conexión HTTPS segura.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Imágenes o archivos no cargados | 🟡 Media | Algunos recursos de la página no aparecen o no se cargan correctamente.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Estilos CSS no validados | 🟢 Baja | Existen errores o problemas menores en el código de estilos CSS.| AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
+Errores de ortografía | 🟢 Baja | Hay palabras o textos escritos incorrectamente en la página. | AUDITADO POR : ERICK ERNESTO TREJO BERNAL 29/09/ 2026 |
